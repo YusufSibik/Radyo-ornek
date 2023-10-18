@@ -1,0 +1,15 @@
+D:\Users\Avanoslu\source\repos\Radyo csharp örnek\Radyo csharp örnek\bin\Debug\Radyo csharp örnek.exe.config
+D:\Users\Avanoslu\source\repos\Radyo csharp örnek\Radyo csharp örnek\bin\Debug\Radyo csharp örnek.exe
+D:\Users\Avanoslu\source\repos\Radyo csharp örnek\Radyo csharp örnek\bin\Debug\Radyo csharp örnek.pdb
+D:\Users\Avanoslu\source\repos\Radyo csharp örnek\Radyo csharp örnek\bin\Debug\Interop.WMPLib.dll
+D:\Users\Avanoslu\source\repos\Radyo csharp örnek\Radyo csharp örnek\bin\Debug\AxInterop.WMPLib.dll
+D:\Users\Avanoslu\source\repos\Radyo csharp örnek\Radyo csharp örnek\obj\Debug\Radyo csharp örnek.csproj.AssemblyReference.cache
+D:\Users\Avanoslu\source\repos\Radyo csharp örnek\Radyo csharp örnek\obj\Debug\Interop.WMPLib.dll
+D:\Users\Avanoslu\source\repos\Radyo csharp örnek\Radyo csharp örnek\obj\Debug\AxInterop.WMPLib.dll
+D:\Users\Avanoslu\source\repos\Radyo csharp örnek\Radyo csharp örnek\obj\Debug\Radyo csharp örnek.csproj.ResolveComReference.cache
+D:\Users\Avanoslu\source\repos\Radyo csharp örnek\Radyo csharp örnek\obj\Debug\Radyo_csharp_örnek.Form1.resources
+D:\Users\Avanoslu\source\repos\Radyo csharp örnek\Radyo csharp örnek\obj\Debug\Radyo_csharp_örnek.Properties.Resources.resources
+D:\Users\Avanoslu\source\repos\Radyo csharp örnek\Radyo csharp örnek\obj\Debug\Radyo csharp örnek.csproj.GenerateResource.cache
+D:\Users\Avanoslu\source\repos\Radyo csharp örnek\Radyo csharp örnek\obj\Debug\Radyo csharp örnek.csproj.CoreCompileInputs.cache
+D:\Users\Avanoslu\source\repos\Radyo csharp örnek\Radyo csharp örnek\obj\Debug\Radyo csharp örnek.exe
+D:\Users\Avanoslu\source\repos\Radyo csharp örnek\Radyo csharp örnek\obj\Debug\Radyo csharp örnek.pdb
